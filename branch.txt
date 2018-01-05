@@ -1,2 +1,3 @@
 my branch
+from branch
 from master
